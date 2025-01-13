@@ -6,3 +6,5 @@
 git push origin main # ESTO ENVÍA LO QUE ESCRIBO A GITHUB
 # CUANDO TODOS TERMINEN
 git pull origin main # ESTO ACTUALIZA DE ACUERDO A LO QUE HAY EN GITHUB
+
+#David

@@ -9,3 +9,8 @@ git pull origin main # ESTO ACTUALIZA DE ACUERDO A LO QUE HAY EN GITHUB
 
 #David
 
+
+#Natalia 
+
+
+# JOSE RTM
